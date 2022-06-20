@@ -1,0 +1,30 @@
+body {
+  background-color: #E4D1B9;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: #506D84;
+  width: 5%;
+}
+
+* {
+  font-family: monospace;
+}
+img {
+  height: 100px;
+  width: 100px;
+}
+
+h1, h3 {
+  color: #A97155;
+}
+
+p {
+  font-size: 15px;
+}
+
+th {
+  font-size: 15px;
+}
