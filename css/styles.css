@@ -12,19 +12,46 @@ hr {
 * {
   font-family: monospace;
 }
-img {
-  height: 100px;
-  width: 100px;
-}
 
 h1, h3 {
   color: #A97155;
 }
 
-p {
+p, th {
   font-size: 15px;
 }
 
-th {
-  font-size: 15px;
+tbody {
+  font-size: 13px;
 }
+
+ul {
+  list-style-type: none;
+}
+
+
+.profile {
+  height: 100px;
+  width: 100px;
+}
+
+a:link, a:visited, a:active {
+  text-decoration: none;
+}
+
+a:link {
+  color: #92BA92;
+}
+
+a:visited, a:active {
+  color: #354259;
+}
+
+/****************************** ID SELECTORS ******************************/
+table cellspacing=20px;
+
+  {}
+
+/* #heading {
+  color: blue;
+} */
